@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0402"
+secret: "nmm2dsr0"
+owner:
+  username: "yuki-765"
+  id: 334789351
+  accepted_at: "2026-10-19T03:16:26Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0402-double_calc"
+  branch: "main"
